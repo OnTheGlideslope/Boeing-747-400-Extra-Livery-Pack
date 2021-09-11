@@ -60,7 +60,7 @@ Then... after downloading the file onto any location of your choice...,<br><br><
 </ul>
 
 <img src=https://raw.githubusercontent.com/Sadia2000/Boeing-747-400-Extra-Livery-Pack/main/Tutorial/Screenshot%202021-09-11%20201846.png alt=pic_not_avab width=800px>
-=======================================
+=======================================<br>
 Now, back to the main installation process...
 
 
