@@ -1,7 +1,7 @@
 # Boeing-747-400-Extra-Livery-Pack
 Every addional livery I could find for the 747-400 in FlightGear. Please note, I did not make any of them. Merged from different sources. Enjoy!<br><br>
 
-# How to install </b>(FOR BULK DOWNLOAD)</b>?
+# How to install </b>(FOR BULK DOWNLOAD ONLY)</b>?
 Pretty Simple<br><br>
 
 <ul>
