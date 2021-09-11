@@ -1,0 +1,48 @@
+<?xml version="1.0"?> 
+
+<PropertyList> 
+       <!-- China Airlines Boeing 747-400 retro livery by E-Savageair....
+
+     China Airlines was founded by a retired air force officer and with two PBY Amphibian aircraft on Decemeber 16, 1959.  The shares of the new airline were completely kept by the Taiwan government and only focused on charter flights.  In 1962, China Airlines's flight from Taipei to Hualien became their first domestic flight.  Later on, flights were expanded to South Vietnam, Hong Kong, and Japan with the introduction of the Sud Aviation Caravelle and the Boeing 
+727-100 aircraft into the fleet.-  
+
+     On February 2, 1970, the company extended their reach with trans-Pacific flights to San Francisco via Japan, thanks to the airlines' first two Boeing 707 aircraft.  By this time, the Boeing 747 had become the standard for the highly profitable Trans-Pacific-USA routes, and in 1976 China Airlines purchased two ex-Delta Airlines 747-100's for their Hong Kong-Taipei-Tokyo-Honolulu-Los Angeles route.  However in 1972, with political pressure mounting, Japan ended its diplomatic ties with Taiwan and flights from Taiwan to Japan stopped. This would be a problem: even though the 747-100 had plenty of range, it still meant longer re-routes. Fast forward to 1977 and the introduction of the Boeing 747SP(Special Performance).  With a higher ceiling and longer legs, China Airlines could now fly nonstop to North America without stopping over in Japan.  The 'SP' had also allowed China Airlines into Africa and Saudi Arabia as well.  In 1979, China Airlines switched their operations from the smaller Taipei Songshan Airport to the newly built Chiang Kai-shek International Airport, now known as Taoyuan International Airport.  With that, and the arrival of the Boeing 747-200, the airline starts its first European route into Amsterdam.-
+
+     In 1978, CAL returned to Japan via Tokyo Haneda International Airport.  They were allowed to return after Japan relocated the other airlines to the new Tokyo International in Narita, leaving China Airlines as the sole international operator at Haneda.  For the next 20 years the airline would see sporadic but contiuned growth; later the airline inaugurated its own around-the-world flight: the Taipei-Anchorage-New York-Amsterdam-Dubai route.-  
+
+     However, what's been a big factor for China Airlines? The political climate.  Disputes between the Republic of China(Taiwan), and the Communist Party of China caused the company to be barred from flying into countries in good relations with mainland China.  As a result, Mandarin Airlines, a CAL subsidiary took over its Sydney and Vancouver routes.  That's when in 1995, China Airlines, to avoid more international controversy, changed from the red, white, and blue livery that featured the national flag, to the newer "plum blossom" scheme that featured a plum blossom on the tail, as it is Taiwan's national flower.  As time went by, cross-strait relations with Taiwan and China were improving.  In 2003, China Airlines flight 585 became the first legal flight out of Taiwan to China.  The aircraft involved was a Boeing 747-400; CAL at that time had placed one of the biggest orders of the type along with Airbus A330's, A340's, MD-11's, and later on Boeing 777's, Airbus A350's, as well as Boeing 737 aircraft.-  
+
+     China Airlines is headquarted at one of its hubs at Taoyuan International Airport at CAL Park.  Considered the largest airline of Taiwan, it operates over 1400 flights weekly (91 cargo-only flights) to 102 cites acress Asia, Europe, North America, and Oceania. As of 2017, CAL carried a total of 19 million passengers and 5700 tons in cargo.  CAL has three subsidiaries: China Airlines Cargo, Mandarin Airlines, and low-cost carrier, Tigerair Taiwan, all of which are owned by the China Airlines Group. On September 14, 2010, China Airlines went into the process to becoming a member of the airline alliance, SkyTeam. That would come to pass on September 28, 2011 when CAL became the first Taiwanese airline to become a member of an airline alliance.-
+
+     Having a history of partnering with aircraft companies, China Airlines in cooperation with Boeing introduced a paint scheme in 2004 called the "Blue Whale" on a 747-400, becoming the first aircraft that was co-branded. The livery was a blend of China Airlines' "plum blossom" livery, and Boeing's house colors in blue. This is the livery being depicted. The 747-400 registered as B-18210 flew in the paint scheme, till 2012 when China Airlines repainted the aircraft into the current livery.  Despite having a poor safety record in 1990's, CAL sought to improve it by recruiting pilots in the civilian sector versus from the air force, with its own pilot training program, modifying its maintenance, and changing operation procedures. Those changes were vital in making China Airlines a safer airline.-
+
+
+To "Blossom Everyday",
+
+Unzip to desktop:
+
+Open to: FlightGear/Data/Aircraft/747-400/Models/Liveries
+
+Place both the XML and .png in "liveries"
+
+Run FlightGear select the 747-400, and if you have the "Blue Whale", then may you have a,
+
+"Journey with a Caring Smile"....
+
+Thank you for downloading :)
+ESA --> 
+<sim> 
+	
+   <model> 
+		
+      <livery> 
+			
+        <name type="string">China Airlines -"Blue Whale"</name> 
+			
+        <texture>Liveries/B-18210.png</texture>		
+      </livery> 
+	
+    </model> 
+  </sim> 
+</PropertyList> 
+ 
