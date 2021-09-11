@@ -90,6 +90,4 @@ Now, back to the main installation process...
 
 <img src=https://github.com/Sadia2000/Boeing-747-400-Extra-Livery-Pack/blob/main/Tutorial/Screenshot%202021-09-11%20203248.png alt=pic_not_avab width=800px><br><br>
 
-NOW ITS DONE! HORRAY!
-Thats it.
-Thanks.
+You're all set! Happy flying!
